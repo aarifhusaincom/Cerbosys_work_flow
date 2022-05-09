@@ -1,0 +1,39 @@
+Dashboard
+
+Order Management
+
+Product Management
+    Product Category
+    Subcategory
+    Measurement Unit 
+    Packaging Type
+    Product Brand
+    Product Grouping
+    Product Library
+
+Customer Management
+
+Vendor Management
+
+Delivery Management
+
+Marketing Tools
+    Banner
+    Push Notification
+    Email
+    WhatsApp Message
+    Text Message
+
+Offers & Coupons
+    Coupons
+    Promotional Offers
+
+Financials
+    Commission Rates
+    Vendors Payout
+    Delivery Payout
+    Receipts from Delivery
+    Receipts from Commission
+
+Reports
+    Total Sales Reports

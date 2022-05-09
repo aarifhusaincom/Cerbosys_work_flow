@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="shopIcon" transform="translate(-371 -200)">
+    <rect id="Rectangle_7936" data-name="Rectangle 7936" width="50" height="50" transform="translate(371 200)" fill="#b85858" opacity="0"/>
+    <path id="ic_store_24px" d="M41.711,4H5.277V8.554H41.711Zm2.277,22.771V22.217L41.711,10.831H5.277L3,22.217v4.554H5.277V40.434H28.048V26.771h9.108V40.434h4.554V26.771ZM23.494,35.879H9.831V26.771H23.494Z" transform="translate(372.954 202.571)" fill="#fff"/>
+  </g>
+</svg>

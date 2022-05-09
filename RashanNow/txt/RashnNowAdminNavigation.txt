@@ -1,0 +1,10 @@
+Dashboard
+Order Management
+Product Management
+Customer Management
+Vender Management
+Delivery Management
+Marketing Tools
+Offers & Coupons
+Financials
+Reports
