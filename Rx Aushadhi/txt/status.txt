@@ -1,0 +1,12 @@
+Open
+Appointment Booked
+Appointment canceled
+Driver Assigned
+Home Pickup
+Doctor Dropoff
+Doctor Pickup
+Home Dropoff
+Prescrip Received
+Prescript sent to Rx
+Rx Delivered
+Rx Canceled

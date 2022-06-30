@@ -1,0 +1,5 @@
+Appointment Pending
+Appointment Confirmed
+Appointment Cancelled
+Appointment Rescheduled
+Appointment Complete

@@ -1,0 +1,5 @@
+Prescription Received
+Medicine Prescribed
+No Medicine
+Invailid / False Prescription
+Sent to Rx

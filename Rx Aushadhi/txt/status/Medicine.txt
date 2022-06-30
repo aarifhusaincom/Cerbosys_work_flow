@@ -1,0 +1,6 @@
+Sent to Rx
+Rx Confirmed
+Medicine Unavailable
+Partially Available
+Cancelled
+Delivered

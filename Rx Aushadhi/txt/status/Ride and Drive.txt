@@ -1,0 +1,16 @@
+Appointment Cancelled
+Appointment Rescheduled
+Ride Cancelled
+Ride Rescheduled
+Appointment & Ride Cancelled
+Appointment & Ride Rescheduled
+Ride Breached
+
+Driver Pending
+Driver Assigned to Clinic
+Driver Assigned to Home pick
+
+Picked from Home
+Dropped at Clinic
+Picked from Clinic
+Dropped at Homey╖
